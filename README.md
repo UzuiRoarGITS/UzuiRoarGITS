@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @UzuiRoarGITS
+- 👋 Hi, I’m @PriyanshuSharmaGITS
 - 👀 I’m interested in projects and new ideas
 - 🌱 I’m currently learning basic programming language , a second year student in btech cse from graphic era hill university
 - 💞️ I’m looking to collaborate on projects
