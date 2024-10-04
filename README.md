@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PriyanshuSharmaGITS.
 - 👀 I’m interested in projects and new ideas.
 - 🌱 I’m currently pursuing my Bachelor's in Technology degree in Computer Science branch.
--🦆 I'm in 3rd year.
+-🦆 I'm in 4th year.
 -👾 I'm skilled in C/C++ , Java , Python , HTML/CSS , JavaScript/Node.js.
 
 
